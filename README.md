@@ -58,3 +58,9 @@ This dashboard serves as a **diagnostic and analytical tool** for researchers, H
 ##  About Imposter Syndrome
 **Imposter syndrome is a psychological condition where individuals doubt their skills, talents, or accomplishments and fear being exposed as a fraud.**  
 Despite clear evidence of success, they attribute achievements to luck or external factors, which often leads to anxiety, stress, and reduced self-confidence.
+
+## Screenshot 
+- ![Alt text](https://github.com/Hjggvdghbhjh/Imposter-Syndrome-Dashboard/blob/main/Imposter%20Syndrom%20Dashboard.png).
+
+
+
